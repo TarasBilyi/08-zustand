@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "NoteHub",
     description: "Manage your notes efficiently",
+    url: "https://https://08-zustand-one-azure.vercel.app",
     images: [
       {
         url: "https://ac.goit.global/fullstack/react/og-meta.jpg",
